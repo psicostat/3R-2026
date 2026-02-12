@@ -34,7 +34,7 @@ See the detailed program see [here](schedule.qmd).
 - **Monday 18th to Wednesday 20th (morning)**: Lectures by Prof. Giovanni Parmigiani and Prof. Branden Fitelson
 - **Monday 18th to Wednesday 20th (afternoon)**: Lectures and hands-on sessions by Dr. Filippo Gambarota and Dr. Margherita Calderan
 
-To have an idea about the topics covered during the school you can have a look at the [book](https://github.com/filippogambarota/replicability-book).
+To have an idea about the topics covered during the school you can have a look at the [book](https://filippogambarota.github.io/replicability-book/).
 
 ## Organizers
 
