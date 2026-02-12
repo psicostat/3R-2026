@@ -1,0 +1,58 @@
+---
+title: 3 R's of Trustworthy Science
+subtitle: 18-20 May 2026
+toc: false
+---
+
+## Overview
+
+When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.
+
+## Lecturers
+
+::: {layout-ncol=2}
+
+![Prof. [Branden Fitelson](https://cssh.northeastern.edu/faculty/branden-fitelson/) </br> Northeastern University, USA](files/fitelson.png){width=70%}
+
+![Prof. [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani) </br> Harvard University, USA](files/parmigiani.jpg){width=70%}
+
+![Dr. [Filippo Gambarota](https://filippogambarota.github.io) </br> University of Padova, Italy](files/gambarota.png){width=70%}
+
+![Dr. [Margherita Calderan](https://mar-cald.github.io/)</br> University of Padova](files/calderan.png){width=70%}
+
+:::
+
+## Program
+
+See the detailed program see [here](schedule.qmd).
+
+- **Monday 18th to Wednesday 20th (morning)**: Lectures by Prof. Giovanni Parmigiani and Prof. Branden Fitelson
+- **Monday 18th to Wednesday 20th (afternoon)**: Lectures and hands-on sessions by Dr. Filippo Gambarota and Dr. Margherita Calderan
+
+## Organizers
+
+- PhD Course in [Psychological Sciences](https://dottorato.psy.unipd.it/en), University of Padova
+- [Department of Statistical Sciences](https://www.stat.unipd.it/), University of Padova
+
+### Organizing committee
+
+- Prof. [Emanuele Aliverti](https://emanuelealiverti.github.io/), Department of Statistical Sciences
+- Prof. [Gianmarco Altoè](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ALTOE%27&key=6A8AF57C3282433554D456917489A756), Department of Developmental Psychology and Socialization
+- Dr. [Margherita Calderan](https://dpg.unipd.it/calderan-margherita), Department of General Psychology
+- Dr. [Filippo Gambarota](https://filippogambarota.github.io/), Department of Developmental Psychology and Socialization
+- Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), Department of Statistical Sciences
+
+</br>
+</br>
+</br>
+
+
+::: {layout-ncol=3}
+
+![](files/logo-dpss.bmp){width="40%"}
+
+![](files/logo-stat.png){width="40%"}
+
+![](files/logo-dpg.png){width="40%"}
+
+:::

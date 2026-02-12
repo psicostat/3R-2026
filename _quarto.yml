@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "3 R's of Trustworthy Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: schedule.qmd
+        text: schedule
+      - href: getting-started.qmd
+        text: getting-started
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
