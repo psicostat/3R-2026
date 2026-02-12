@@ -8,6 +8,11 @@ toc: false
 
 When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.
 
+## Applications
+
+Applications can be submitted by filling out this form [https://forms.gle/f1hvuQBvaVQpJ8AR6](https://forms.gle/f1hvuQBvaVQpJ8AR6).
+The deadline for the applications is April 20th 2026.
+
 ## Lecturers
 
 ::: {layout-ncol=2}
@@ -29,6 +34,8 @@ See the detailed program see [here](schedule.qmd).
 - **Monday 18th to Wednesday 20th (morning)**: Lectures by Prof. Giovanni Parmigiani and Prof. Branden Fitelson
 - **Monday 18th to Wednesday 20th (afternoon)**: Lectures and hands-on sessions by Dr. Filippo Gambarota and Dr. Margherita Calderan
 
+To have an idea about the topics covered during the school you can have a look at the [book](https://github.com/filippogambarota/replicability-book).
+
 ## Organizers
 
 - PhD Course in [Psychological Sciences](https://dottorato.psy.unipd.it/en), University of Padova
@@ -40,7 +47,9 @@ See the detailed program see [here](schedule.qmd).
 - Prof. [Gianmarco Altoè](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ALTOE%27&key=6A8AF57C3282433554D456917489A756), Department of Developmental Psychology and Socialization
 - Dr. [Margherita Calderan](https://dpg.unipd.it/calderan-margherita), Department of General Psychology
 - Dr. [Filippo Gambarota](https://filippogambarota.github.io/), Department of Developmental Psychology and Socialization
+- Prof. [Lucia Regolin](https://www.unipd.it/contatti/rubrica?checkout=cerca&detail=Y&key=EB004FC53DB558D133F1FA95ED7EBA6A&persona=REGOLIN&ruolo=1), Department of General Psychology
 - Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), Department of Statistical Sciences
+- Prof. [Enrico Toffalini](https://enricotoffalini.github.io/), Department of General Psychology
 
 </br>
 </br>
