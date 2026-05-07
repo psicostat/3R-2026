@@ -2,7 +2,7 @@
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPo4xHBwxkWSJUboAdVKCWPohj6UZf6ye__jyChL0e6fQUTR6eEY2uWDXQHGl9OlTRXcNFC3v0ThHe/pub?start=false&loop=false&delayms=60000" frameborder="0" width="500" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPo4xHBwxkWSJUboAdVKCWPohj6UZf6ye__jyChL0e6fQUTR6eEY2uWDXQHGl9OlTRXcNFC3v0ThHe/pubembed?start=false&loop=false&delayms=6000" frameborder="0" width="500" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </center>
 
@@ -12,6 +12,10 @@
 The main material for the school is the book [*The three Rs of trustworthy science*](https://filippogambarota.github.io/replicability-book/). The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the [1](https://filippogambarota.github.io/replicability-book/chapters/chapter1.html), [3](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) and [4](https://filippogambarota.github.io/replicability-book/chapters/chapter4.html).
 
 We highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)
+
+## ECTS and certificate
+
+Please note that to receive ECTS credits and a certificate of attendance, you must attend at least 70% of the lectures and complete the final exam on the last day.
 
 ## Software
 
