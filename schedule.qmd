@@ -5,4 +5,60 @@ params:
 
 # Schedule
 
-Available soon! :)
+The school will take place at the [School of Psychology](https://www.psicologia.unipd.it/en/), Via Venezia 12, 35131 Padova PD, University of Padova.
+
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5601.818937099062!2d11.891138076650625!3d45.41116513697522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477edaf41d87219f%3A0x4937f5b46fa1b4c0!2sSchool%20of%20Psychology!5e0!3m2!1sen!2sit!4v1746362175717!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</center>
+
+## Monday, 18 May
+
+The main reading for Monday is [Chapter 1](https://filippogambarota.github.io/replicability-book/chapters/chapter1.html) of the 3R book. For the afternoon session by Margherita Calderan, the material is available [here](https://mar-cald.github.io/repro-pre-school/).
+
+The **room is 4S, Psico 2 building, 4th floor**.
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | Lecture 1          |
+| 09:45 - 10:30 | Lecture 2          |
+| 10:30 - 10:45 | Group warm-up      |
+| 10:45 - 11:15 | Group discussion   |
+| 11:15 - 12:00 | General discussion |
+| 12:00 - 14:00 | Lunch              |
+| 14:00 - 16:30 | Lecture 3          |
+
+## Tuesday, 19 May
+
+The main reading for Tuesday is [Chapter 3](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) of the 3R book.
+
+The room is still TBD.
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | Lecture 1          |
+| 09:45 - 10:30 | Lecture 2          |
+| 10:30 - 10:45 | Group warm-up      |
+| 10:45 - 11:15 | Group discussion   |
+| 11:15 - 12:00 | General discussion |
+| 12:00 - 14:00 | Lunch              |
+| 14:00 - 16:30 | Lecture 3          |
+
+## Wednesday, 20 May
+
+The main reading for Wednesday is [Chapter 4](https://filippogambarota.github.io/replicability-book/chapters/chapter4.html) of the 3R book.
+
+The **room is 4S, Psico 2 building, 4th floor**.
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | Lecture 1          |
+| 09:45 - 10:30 | Lecture 2          |
+| 10:30 - 10:45 | Group warm-up      |
+| 10:45 - 11:15 | Group discussion   |
+| 11:15 - 12:00 | General discussion |
+| 12:00 - 14:00 | Lunch              |
+| 14:00 - 16:30 | Lecture 3          |
+
+# Groups
+
+Groups will be announced soon.
