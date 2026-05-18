@@ -42,6 +42,10 @@ The **room is 4S, Psico 2 building, 4th floor**.
 | 12:00 - 14:00 | Lunch              |
 | 14:00 - 16:30 | Lecture 3          |
 
+### Slides
+
+- Giovanni Parmigiani [[html](materials/parmigiani-day1.qmd)]
+
 ## Tuesday, 19 May
 
 The main reading for Tuesday is [Chapter 3](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) of the 3R book.
