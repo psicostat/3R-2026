@@ -88,6 +88,7 @@ After the afternoon session there will be the final aperitif organized by the sc
 ### Slides
 
 - Giovanni Parmigiani [[pdf](materials/parmigiani-day3.pdf)]
+- Branden Fitelson [[pdf](materials/fitelson-day3.pdf)]
 
 # Groups
 
